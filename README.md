@@ -47,7 +47,7 @@ Each deliverable has its own folder for clarity.
 - **Wireframes Prototype:** https://www.figma.com/proto/JLNlxMwna95absce36eDKo/Untitled?node-id=0-1&t=HMK8v9Rll0qKngMy-1
 - ** Wireframe dev mode:** https://www.figma.com/design/JLNlxMwna95absce36eDKo/Untitled?node-id=0-1&m=dev&t=HMK8v9Rll0qKngMy-1 
 - ** Information architecture:** https://www.figma.com/design/IiJEofQHruRHclYydryZ98/Untitled?m=dev&t=HMK8v9Rll0qKngMy-1
-
+- ** User journey:** https://www.figma.com/design/jUv142xgQh9YgbU4LMPMUt/user-journey?node-id=0-1&m=dev&t=HMK8v9Rll0qKngMy-1
 ---
 
 ## 🧠 Key Concepts & Design Approach
