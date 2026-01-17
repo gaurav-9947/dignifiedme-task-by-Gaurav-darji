@@ -44,9 +44,9 @@ Each deliverable has its own folder for clarity.
 
 > Make sure these are set to **“Anyone with link can view”**.
 
-- **Wireframes:** https://www.figma.com/file/XXXXXXXX  
-- **IA Diagram:** https://www.figma.com/file/YYYYYYYY  
-- **User Journey:** https://www.figma.com/file/ZZZZZZZZ  
+- **Wireframes Prototype:** https://www.figma.com/proto/JLNlxMwna95absce36eDKo/Untitled?node-id=0-1&t=HMK8v9Rll0qKngMy-1
+- ** Wireframe dev mode:** https://www.figma.com/design/JLNlxMwna95absce36eDKo/Untitled?node-id=0-1&m=dev&t=HMK8v9Rll0qKngMy-1 
+- ** Information architecture:** https://www.figma.com/design/IiJEofQHruRHclYydryZ98/Untitled?m=dev&t=HMK8v9Rll0qKngMy-1
 
 ---
 
