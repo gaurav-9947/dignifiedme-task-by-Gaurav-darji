@@ -1,0 +1,18 @@
+# Information Architecture (IA)
+
+This section documents the Information Architecture for the hardware talent marketplace platform.
+
+The IA was designed to support the unique behaviors of hardware founders who require:
+- Clarity on available roles (embedded, PCB, mechanical, etc.)
+- Trust signals before engaging (verification, case studies, pricing)
+- Flexible search modes (AI-assisted or manual browsing)
+- City-based discovery for local execution teams
+
+The diagram outlines all relevant screens and logical paths, including:
+- Landing and search flows
+- Talent listings and filtering
+- Profile detail and trust layers
+- Communication and contact initiation
+- Supporting pages (FAQ, dashboard, settings)
+
+The goal of the IA is to create a scalable structure that reduces cognitive load while maintaining a high-trust decision flow.
