@@ -1,0 +1,22 @@
+# User Journey Map
+
+This folder contains the user journey map for the hardware talent platform concept.
+
+The map follows a founder (Maya) who is building a home-cleaning robot prototype and needs embedded, PCB, and mechanical engineering support in her city.
+
+The journey is broken into 5 stages:
+1. Awareness
+2. Research
+3. Exploration
+4. Evaluation
+5. Decision
+
+Each stage documents:
+- Goals
+- Actions
+- Thoughts
+- Pain points
+- Touchpoints
+- Opportunities
+
+The purpose of this journey is to understand how hardware founders discover talent, evaluate credibility, and take high-trust next steps such as messaging, requesting proposals, or booking calls with verified engineers or cluster teams.
