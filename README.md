@@ -30,7 +30,7 @@ Each deliverable has its own folder for clarity.
 
 | Deliverable | Location |
 |------------|----------|
-| Competitor Case Study | `/case-study` |
+| Competitor Case Study | `case-study` |
 | User Journey Map | `/user-journey` |
 | Information Architecture (IA) | `/information-architecture` |
 | Low-Fidelity Wireframes | `/wireframes` |
