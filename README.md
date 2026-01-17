@@ -32,10 +32,11 @@ Each deliverable has its own folder for clarity.
 |------------|----------|
 | Competitor Case Study | `/case-study` |
 | User Journey Map | `/user-journey` |
-| Information Architecture (IA) | `/information-architecture` |
+| Information Architecture (IA) | `/information-architecture(IA)` |
 | Low-Fidelity Wireframes | `/wireframes` |
-| Microcopy | `/microcopy` |
-| UX Decisions | `/ux-decisions` |
+| Microcopy | `/microcopy & UX decision` |
+| UX Decisions | `/microcopy & UX decision` |
+| Extra | `/brainstorm & paper prototype ` |
 
 ---
 
